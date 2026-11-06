@@ -20,7 +20,7 @@ builder.Services.AddCors(options =>
     });
     options.AddPolicy("MyWebsite", builder =>
     {
-        builder.WithOrigins("http://localhost:5173/login");
+        builder.WithOrigins("http://localhost:5173/");
     });
 });
 var app = builder.Build();
