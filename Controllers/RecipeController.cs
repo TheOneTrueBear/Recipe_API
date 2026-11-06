@@ -33,18 +33,21 @@ namespace Recipe_API.Controllers
             return _repo.GetById(id);
         }
 
+        [EnableCors("MyWebsite")]
         [HttpPost]
         public Recipe AddRecipe([FromBody] Recipe recipe)
         {
             return _repo.Add(recipe);
         }
 
+        [EnableCors("MyWebsite")]
         [HttpPut("{id}")]
         public Recipe UpdateRecipe([FromBody] Recipe data, int id)
         {
             return _repo.Edit(id, data);
         }
 
+        [EnableCors("MyWebsite")]
         [HttpDelete("{id}")]
         public Recipe DeleteRecipe(int id)
         {
