@@ -1,0 +1,9 @@
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Recipe_API.exe
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\appsettings.Development.json
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\appsettings.json
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Recipe_API.dll
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Recipe_API.deps.json
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Recipe_API.runtimeconfig.json
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Recipe_API.pdb
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\1012b\source\repos\TheOneTrueBear\Ada-food\Visual studio files\Recipe_API\obj\Docker\publish\Microsoft.OpenApi.dll
